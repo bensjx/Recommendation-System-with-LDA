@@ -2,8 +2,8 @@
 Topic modelling and NLP with gensim and nltk
 
 # Concept:
-1. Data cleaning
-2. Data pre-processing (lemmatize, stop words, tokenize)
-3. Finding optimum number of topics with coherence value
-4. Generating topic-word and document-topic distribution matrix
-5. Finding similar products with cosine similarity
+1. EDA
+2. Data cleaning
+3. Recommender system
+4. Retrieving words that best predicts a "recommend/no recommend" using feature importance
+5. Building of Bidirectional LSTM to predict recommendation
